@@ -1,0 +1,26 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <WebView android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </WebView>
+
+
+    <TextView
+        android:id="@+id/textforerror"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="255dp"
+        android:textColor="#530000"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:text=""/>
+
+
+</android.support.constraint.ConstraintLayout>

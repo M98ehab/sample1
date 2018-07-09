@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">sample</string>
+
+
+    <string-array name="faculty">
+        <item>Choose your Faculty....</item>
+        <item>Petroleum and Mining Engineering Faculty</item>
+        <!--<item>Science Faculty</item>-->
+        <item>Education Faculty</item>
+        <item>Arts and Humanities science Faculty</item>
+        <item>Computers and information </item>
+        <item>Fish resources and marine studies </item>
+        <item>Politics and Economy</item>
+    </string-array>
+
+    <!--Computers and information-->
+    <string-array name="yearcs">
+        <item>Choose the year...</item>
+        <item>first year C.S</item>
+        <item>second year C.S</item>
+    </string-array>
+
+    <string-array name="semestercs1">
+        <item>Choose the semester...</item>
+        <item>first semester Y1-C.S</item>
+        <item>second semester Y1-C.S</item>
+    </string-array>
+
+    <string-array name="semestercs2">
+        <item>Choose the semester...</item>
+        <item>first semester Y2-C.S</item>
+    </string-array>
+
+    <string-array name="materialcs11">
+        <item>Choose the material...</item>
+        <item>Physics1 Dr.Yasser Amoun</item>
+        <item>Math1 Dr.Mohamed Ramadan</item>
+        <item>General English Dr.Dosoky</item>
+    </string-array>
+
+    <string-array name="materialcs12">
+        <item>Choose the material...</item>
+        <item>Programming Dr.Mohammed Ali</item>
+        <item>Mathematics2 Dr.Taha El-Garib </item>
+        <item>English writing Dr.Dosoky</item>
+        <item>Discrete structure Dr.Hussein Sharaf</item>
+    </string-array>
+
+    <string-array name="materialcs21">
+        <item>Choose the material...</item>
+        <item>Cables</item>
+        <item>Communication</item>
+        <!--<item>IP adress</item>-->
+        <item>Is امتحانات</item>
+        <item>Laplace transformation</item>
+        <item> maths Dr.Mohammed Saleh امتحانات</item>
+        <item>maths 3 fouri series</item>
+        <item>الأعداد المركبة maths 3</item>
+        <item>System analysis</item>
+        <item>امتحانات دكتور هيثم</item>
+        <item>Business</item>
+        <item>definition of Java</item>
+        <item>امتحانات تانية حاسبات</item>
+    </string-array>
+
+
+
+
+</resources>
