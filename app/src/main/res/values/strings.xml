@@ -5,7 +5,7 @@
     <string-array name="faculty">
         <item>Choose your Faculty....</item>
         <item>Petroleum and Mining Engineering Faculty</item>
-        <!--<item>Science Faculty</item>-->
+        <item>Science Faculty</item>
         <item>Education Faculty</item>
         <item>Arts and Humanities science Faculty</item>
         <item>Computers and information </item>
@@ -13,54 +13,108 @@
         <item>Politics and Economy</item>
     </string-array>
 
-    <!--Computers and information-->
-    <string-array name="yearcs">
-        <item>Choose the year...</item>
-        <item>first year C.S</item>
-        <item>second year C.S</item>
+    <!--Science-->
+    <string-array name="departmentSC">
+        <item>Choose your Department .... </item>
+        <item>Physics</item>
+        <item>Microbiology</item>
+        <item>Mathematics</item>
+        <item>Industrial Chemistry</item>
+        <item>Geology</item>
+        <item>حقوق انسان مشترك</item>
+        <item>Biochemistry</item>
+        <item>Biotechnology</item>
     </string-array>
 
-    <string-array name="semestercs1">
-        <item>Choose the semester...</item>
-        <item>first semester Y1-C.S</item>
-        <item>second semester Y1-C.S</item>
+    <string-array name="materialPH">
+        <item>اختر المادة...</item>
+        <item>نووية واشعاعية</item>
+        <item>فزياء رياضية</item>
+        <item>ذرية</item>
+        <item>ضوء فيزيائى د.آمنة</item>
+        <item>حرارة وخواص د/بهجت</item>
+        <item>جوامد 1</item>
     </string-array>
 
-    <string-array name="semestercs2">
-        <item>Choose the semester...</item>
-        <item>first semester Y2-C.S</item>
+    <string-array name="materialMI">
+        <item>اختر المادة...</item>
+        <item>وراثة حيوية وجزيئية د.سامية</item>
+        <item>ميكروبايولوجى الغذاء وامراض النبات د.صالحة</item>
+        <item>فطريات ووراثة ميكروبات د.عبدالحميد</item>
+        <item>طحالب د.الهام</item>
+        <item>ترشيح نبات وشكل ظاهرى د.الشحات</item>
+        <item>ترشيح متقدم د.الشحات</item>
+        <item>بكتريا عامة د.صالحة</item>
+        <item>امتحانات ميكروبايولوجى</item>
     </string-array>
 
-    <string-array name="materialcs11">
-        <item>Choose the material...</item>
-        <item>Physics1 Dr.Yasser Amoun</item>
-        <item>Math1 Dr.Mohamed Ramadan</item>
-        <item>General English Dr.Dosoky</item>
+    <string-array name="materialMA">
+        <item>اختر المادة...</item>
+        <item>مقدمة فى علم الحاسب د/وائل فواز</item>
+        <item>معادلات تفاضلية عادية د.هبة</item>
+        <item>توبولوجى د.محمد رمضان</item>
+        <item>تحليل مركب د.محمد صالح</item>
+        <item>تحليل رياضة 2 د/هبة</item>
+        <item>امتحانات قسم رياضة</item>
+        <item>احصاء حيوى د/محمد الشحات</item>
     </string-array>
 
-    <string-array name="materialcs12">
-        <item>Choose the material...</item>
-        <item>Programming Dr.Mohammed Ali</item>
-        <item>Mathematics2 Dr.Taha El-Garib </item>
-        <item>English writing Dr.Dosoky</item>
-        <item>Discrete structure Dr.Hussein Sharaf</item>
+    <string-array name="materialIC">
+        <item>اختر المادة...</item>
+        <item>امتحانات كيمياء صناعية</item>
     </string-array>
 
-    <string-array name="materialcs21">
-        <item>Choose the material...</item>
-        <item>Cables</item>
-        <item>Communication</item>
-        <!--<item>IP adress</item>-->
-        <item>Is امتحانات</item>
-        <item>Laplace transformation</item>
-        <item> maths Dr.Mohammed Saleh امتحانات</item>
-        <item>maths 3 fouri series</item>
-        <item>الأعداد المركبة maths 3</item>
-        <item>System analysis</item>
-        <item>امتحانات دكتور هيثم</item>
-        <item>Business</item>
-        <item>definition of Java</item>
-        <item>امتحانات تانية حاسبات</item>
+    <string-array name="materialPG">
+        <item>اختر المادة...</item>
+        <item>نارية</item>
+        <item>مقدمة فى علم الحاسب د/وائل</item>
+        <item>مقدمة فى علم الحيوان د/رانيا+د/هويدا</item>
+        <item>حرارة وخواص1 د/بهجت</item>
+        <item>جيولوجيا عامة د/اسماعيل سيد</item>
+        <item>اسس كيمياء فيزيائية د/شيماء خلف</item>
+        <item>Structural Geology د.فارس</item>
+        <item>Remote sensing د.فارس</item>
+        <item>فرقة تالتة ترم اول</item>
+        <item>عينات صخور ومعادن</item>
+        <item>خرائط جيولوجية</item>
+        <item>امتحان marine</item>
+        <item>Survey</item>
+        <item>Sedimentology د.حسن</item>
+        <item>Microfossils د.حسن</item>
+        <item>Metamorphic</item>
+        <item>Introduction of Structural Geology د.حسن</item>
+        <item>Hydrogeology</item>
+        <item>Hydrogeochemistry</item>
+        <item>Geophysics د.سعادة</item>
+        <item>Geophysics Methods</item>
+        <item>Electrics د.سعادة</item>
+        <item>Archeological Dating methods 2</item>
+        <item>Absolute Dating</item>
+    </string-array>
+
+    <string-array name="material_حقوق_انسان">
+        <item>اختر المادة...</item>
+        <!--<item>حرارة وخواص د.بهجت</item>
+        <item>مقدمة فى علم الحاسب د.وائل فواز</item>
+        <item>جيولوجيا عامة د.اسماعيل</item>
+        <item>عينات صخور ومعادن</item>
+        <item>مقدمة فى علم الحيوان د.رانيا+د.هويدا</item>
+        <item>تحليل رياضى 2 د.هبة</item>
+        <item>كيمياء فيزيائية د.شيماء</item>-->
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialBC">
+        <item>اختر المادة...</item>
+        <item>ملخص كيمياء حيوى د.وليد</item>
+        <item>امتحانات كيمياء حيوى</item>
+    </string-array>
+
+    <string-array name="materialBI">
+        <item>اختر المادة...</item>
+        <item>وراثة خلوية د.احمد عيسى</item>
+        <item>كيمياء حيوى (كربوهيدرات) د.وليد سراج</item>
+        <item>علم الدم د.عايدة</item>
     </string-array>
 
 
